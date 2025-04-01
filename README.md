@@ -19,3 +19,9 @@
 <br>
 <img src="./Paper Prototypes V1/pro 8.png" alt="Paper Prototype 8" width="700" />
 </details>
+<details>
+<summary><strong>Paper Prototype V2 (click to expand)</strong></summary>
+<br>
+<img src="./Paper Prototypes V2/prototype V2.png" alt="Paper Prototype v2" width ="700" />
+<br>
+</details>
